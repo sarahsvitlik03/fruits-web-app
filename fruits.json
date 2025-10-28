@@ -22,34 +22,34 @@
           "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
         },
         {
-        "id": 4,
-        "name": "Clementine",
-        "price": 1.6,
-        "image": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL012-06%20clementine_0.jpg"
-        },
-        {
-        "id": 5,
-        "name": "Lime",
-        "price": 1.9,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_fVVQmvKh4T55NM89g6Gn1BW6Pr7wiVOYA&s"
-        },
-        {
-        "id": 6,
-        "name": "Strawberry",
-        "price": 0.8,
-        "image": "https://assets.bonappetit.com/photos/58dbf6c8a6614f6f50816994/master/pass/20170323%20MOB6231_FINAL_crop.jpg"
-        },
-        {
-        "id": 7,
-        "name": "Avocado",
-        "price": 2.2,
-        "image": "https://cdn.britannica.com/72/170772-050-D52BF8C2/Avocado-fruits.jpg"
-        },
-        {
-        "id": 8,
-        "name": "Pineapple",
-        "price": 1.1,
-        "image": "https://asian-veggies.com/cdn/shop/products/71_qAJehpkL.jpg?v=1668222481"
-        }
-    ]
-}
+            "id": 4,
+            "name": "Clementine",
+            "price": 1.6,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Clementines_whole%2C_peeled%2C_half_and_sectioned.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Lime",
+            "price": 1.9,
+            "image": "https://cdn.pixabay.com/photo/2022/10/22/18/32/limes-7539844_960_720.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Strawberry",
+            "price": 0.8,
+            "image": "https://cdn.pixabay.com/photo/2022/05/27/10/35/strawberries-7224876_1280.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Avocado",
+            "price": 2.2,
+            "image": "https://cdn.pixabay.com/photo/2015/08/11/22/02/avocado-885272_1280.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Pineapple",
+            "price": 1.1,
+            "image": "https://cdn.pixabay.com/photo/2020/04/29/12/47/pineapple-5108775_1280.jpg"
+          }
+        ]
+      }
